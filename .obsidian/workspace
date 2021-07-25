@@ -1,0 +1,102 @@
+{
+  "main": {
+    "id": "924581566fcf5aee",
+    "type": "split",
+    "children": [
+      {
+        "id": "b61b876926b23960",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "4 - Adding More Fields.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "002aca29c9844871",
+    "type": "split",
+    "children": [
+      {
+        "id": "6e761af53577ebc5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6e23a2e479a98430",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "ae3c91ca273be7d0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c3b5f2d66f427485",
+    "type": "split",
+    "children": [
+      {
+        "id": "f446562322afc7fb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ba8338e8757aebbe",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "4 - Adding More Fields.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "b61b876926b23960",
+  "lastOpenFiles": [
+    "4 - Adding More Fields.md",
+    "6 - Passing Arguments to GraphQL Method.md",
+    "GraphQL Server source.md",
+    "1 - What is Graphql.md",
+    "notes.md",
+    "Untitled.md",
+    "5 - Adding more Queries.md",
+    "Adding More Fields - 4.md",
+    "Adding Database to the server - 5.md",
+    "Setting Up GraphQL - 2.md"
+  ]
+}
