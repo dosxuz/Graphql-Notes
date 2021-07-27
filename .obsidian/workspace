@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "4 - Adding More Fields.md",
-            "mode": "preview"
+            "file": "GraphQL Enumeration/3 - Introspection Examples.md",
+            "mode": "source"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4 - Adding More Fields.md",
+                "file": "GraphQL Enumeration/3 - Introspection Examples.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,8 @@
   },
   "active": "b61b876926b23960",
   "lastOpenFiles": [
+    "GraphQL Enumeration/3 - Introspection Examples.md",
+    "GraphQL Enumeration/Untitled.md",
     "4 - Adding More Fields.md",
     "6 - Passing Arguments to GraphQL Method.md",
     "GraphQL Server source.md",
@@ -95,8 +97,6 @@
     "notes.md",
     "Untitled.md",
     "5 - Adding more Queries.md",
-    "Adding More Fields - 4.md",
-    "Adding Database to the server - 5.md",
-    "Setting Up GraphQL - 2.md"
+    "Adding More Fields - 4.md"
   ]
 }
